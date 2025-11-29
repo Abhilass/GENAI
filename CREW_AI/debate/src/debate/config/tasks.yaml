@@ -1,0 +1,28 @@
+propose:
+  description: >
+    You are proposing the motion: {motion}
+    come up with a clear argument in favor of motion.
+    Be very convincing.
+  expected_output: >
+    Your clear argument in favor of motion in a conside manner.
+  agent: debater
+  output_file: output/propose.md
+
+
+oppose:
+  description: >
+    You are opposing the motion: {motion}
+    come up with a clear argument against the motion.
+    Be very convincing.
+  expected_output: >
+    Your clear argument in opposing the motion in a conside manner.
+  agent: debater
+  output_file: output/oppose.md
+
+decide:
+  description: >
+    Review the arguments presented by the debaters and decide which side is convincing.
+  expected_output: >
+    You decide which side is more convincing and why
+  agent: judge
+  output_file: output/decide.md
