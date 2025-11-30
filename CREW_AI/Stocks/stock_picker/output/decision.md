@@ -1,0 +1,7 @@
+**Chosen Company:** Reliance Industries Ltd
+
+**Rationale:** Reliance Industries Ltd is chosen due to its diversified portfolio across multiple sectors (energy, petrochemicals, textiles, retail, telecommunications), its expansion into new sectors like AI through its partnership with Google, and its projected higher earnings and revenue growth. Analysts predict continued growth in earnings and revenue for Reliance Industries, with forecasts suggesting an 8.6% and 6.3% annual increase, respectively. The stock is projected to deliver solid earnings growth over the next few years. Strong Q4FY25 performance and strategic investments contribute to a favorable investment outlook.
+
+**Company Not Selected:** Tata Consultancy Services Ltd
+
+**Rationale:** While Tata Consultancy Services (TCS) is a strong player in the IT sector with significant AI investments and a global presence, Reliance Industries presents a slightly better investment opportunity due to its broader market reach and more aggressive growth projections. Although TCS is expected to experience growth fueled by its investments in digital technologies and AI, Reliance's diversified portfolio offers a wider range of potential revenue streams and reduces the risk associated with relying solely on the IT sector.
